@@ -1,5 +1,5 @@
 Summary:	Network bandwidth measurement tool
-Summary(pl):	Narzêdzie do monitorowania przepustowo¶ci sieci
+Summary(pl.UTF-8):   NarzÄ™dzie do monitorowania przepustowoÅ›ci sieci
 Name:		nttcp
 Version:	1.47
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 NTTCP is a benchmarking tool for determining TCP and UDP performance
 between 2 systems.
 
-%description -l pl
-NTTCP jest narzêdziem sprawdzaj±cym wydajno¶æ po³±czeñ TCP i UDP
-pomiêdzy dwoma systemami.
+%description -l pl.UTF-8
+NTTCP jest narzÄ™dziem sprawdzajÄ…cym wydajnoÅ›Ä‡ poÅ‚Ä…czeÅ„ TCP i UDP
+pomiÄ™dzy dwoma systemami.
 
 %prep
 %setup -q
